@@ -1,2 +1,21 @@
 # AttendCRM
-A simple web-based Attendance CRM system to manage user attendance, built with PHP and MySQL.
+
+A lightweight Attendance CRM system for managing employee/student attendance.
+
+## Features
+
+- Admin login
+- User management
+- Attendance marking
+- Report viewing
+
+## Tech Stack
+
+- PHP + MySQL
+- HTML/CSS/JS
+- Selenium (Java) for testing
+
+## Folder Structure
+
+- `/docs`: SRS and documentation
+- `/sql`: Database schema
